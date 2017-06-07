@@ -1,0 +1,11 @@
+Projekt wykonuje: Jakub Wiœniewski
+Projekt-WPF
+Aplikacja zarz¹dzania studentami na uczelni:
+Studenci oraz Prowadzacy(wykorzystanie klas abstrakcyjnych, interefejsów oraz kolekcji)
+-dodawanie
+-usuwanie
+-przegladnie listy studentow oraz prowadzacych
+
+Poprawki:
+-Polaczenie z baza danych
+-Mozliwosc sortowania i filtrowania studentow
