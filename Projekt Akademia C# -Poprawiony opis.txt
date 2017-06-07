@@ -7,5 +7,5 @@ Studenci oraz Prowadzacy(wykorzystanie klas abstrakcyjnych, interefejsów oraz ko
 -przegladnie listy studentow oraz prowadzacych
 
 Poprawki:
--Polaczenie z baza danych
--Mozliwosc sortowania i filtrowania studentow
+-Mozliwosc sortowania wedlug roznych kryteriow oraz filtrowania studentow
+-Mozliwosc przegladania ocen studentów, liczenie sredniej
