@@ -10,5 +10,8 @@ Poprawki:
 -Mozliwosc sortowania wedlug roznych kryteriow oraz filtrowania studentow
 -Mozliwosc przegladania ocen studentów, liczenie sredniej
 
-Dodtakowo:
+Dodatkowo:
 -Po³¹cznie z baz¹ danych Sqlite
+
+Link do prezentacji:
+https://www.youtube.com/watch?v=bAJ3UUjbaD0
